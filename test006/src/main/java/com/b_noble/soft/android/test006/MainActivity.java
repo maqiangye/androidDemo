@@ -1,4 +1,4 @@
-package com.b_noble.soft.android.test002;
+package com.b_noble.soft.android.test006;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
