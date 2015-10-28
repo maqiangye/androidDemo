@@ -2,6 +2,7 @@ package com.b_noble.android;
 
 import android.app.Activity;
 import android.os.Bundle;
+import android.util.Log;
 
 public class MyActivity extends Activity {
     /**
@@ -12,5 +13,6 @@ public class MyActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
 
+        Log.d("","");
     }
 }
